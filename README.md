@@ -9,7 +9,7 @@ I’m an undergraduate specializing in Financial Mathematics and Industrial Stat
 ### 📂 Featured Projects
 - [A High-Performance Computing of Internal Rate of Return using a Centroid based Newton-Raphson Iterative Algorithm](https://github.com/Lakruwan-EGM/A-High-Performance-Computing-of-Internal-Rate-of-Return):
       A modified iterative model to calculate Internal Rate of Return accurately in practical situations.
-- [How does the cost of different food types affect energy-sufficient meals in various countries?]():
+- [How does the cost of different food types affect energy-sufficient meals in various countries?](https://github.com/Lakruwan-EGM/How-does-the-cost-of-different-food-types-affect-energy-sufficient-meals-in-various-countries):
       A case study to create a regression model to study the relationship between the cost of each food type in a meal and the cost of the meal as a whole. Also, to analyze the multiple linear regression of them on a global scale.
 
 ### 🛠️ Skills & Tools
