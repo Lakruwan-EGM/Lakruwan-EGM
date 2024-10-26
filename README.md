@@ -27,5 +27,5 @@ I’m an undergraduate specializing in Financial Mathematics and Industrial Stat
 - Email: lakruwan.malaka.egm@gmail.com
 
 ### 🌍 Fun Fact
-- I’m passionate about solving real-world problems through data to the point I analyze every incident around me instinctively
-- Love connecting with people who share an interest in personal and professional development.
+- I’m passionate about solving real-world problems through data to the point I analyze every incident around me instinctively.
+- I love connecting with people who share an interest in personal and professional development.
